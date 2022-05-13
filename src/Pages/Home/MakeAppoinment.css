@@ -1,0 +1,22 @@
+.appionment{
+    margin-top: 200px;
+}
+.make-appoinment{
+    display: flex;
+    width: 100% ;
+    margin: auto;
+}
+.appionment-details{
+    margin-top: 120px;
+}
+.make-appoinment img{
+    width: 700px;
+    margin-top: -175px;
+}
+.make-appoinment image{
+    width: 30%;
+}
+.make-appoinment .appionment-details{
+    width: 70%;
+    margin-right: 25px;
+}
